@@ -202,7 +202,7 @@ If this repo helped you understand logic circuits, please consider giving it a s
 
 · Author: Your Name
 · GitHub: @YOUR_USERNAME
-· Email: your.email@example.com
+· Email: hastiamiri418@gmail.com
 
 ---
 
